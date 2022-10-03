@@ -1,0 +1,58 @@
+#header {
+    background:0;
+    transition: all 0.5s;
+    z-index: 997;
+    padding: 20px 0;
+}
+.nav{
+    --bs-nav-link-color: #f8f9fa;
+    --bs-nav-link-hover-color: #f8f9fa;
+}
+.nav-link-white{
+    color: white !important;
+    }
+    .nav-link-green{
+        color: green !important;
+        }
+.section-title{
+    text-align: center   
+}
+.section-title p{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.btn{
+    font-family: Georgia, Times, 'Times New Roman', serif !important;
+    font-size: 15px !important;
+    margin-top: 20px !important;
+    --bs-btn-padding-y: .25rem !important;
+    --bs-btn-padding-x: .5rem !important;
+    --bs-btn-font-size: .75rem !important;
+}
+.btn-info{
+    color: #f8f9fa !important;
+}
+.card-text{
+    font-size: 15px;
+    margin-top: 20px;
+}
+.card-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.letrablanca{
+    color: #f8f9fa; 
+}
+.margenes{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 100px
+}
+.dottedunderline{
+    border-bottom: 1px dotted;
+    text-decoration: none;
+    color: black;
+}
+
+
+   
+    
